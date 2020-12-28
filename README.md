@@ -5,4 +5,4 @@ This is a python program where we are reading CSV file with the dataset of Breas
 
 Source for the data set : http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
-![alt text]()
+![alt text](https://github.com/prerakpatelca/K-Nearest-Neighbour/blob/master/Screen%20Shot%202020-12-28%20at%203.42.34%20PM.png)
